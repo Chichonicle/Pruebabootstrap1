@@ -1,0 +1,37 @@
+
+.fondo-rojo{
+    background-color: red;
+
+}
+.fondo-violeta{
+    background-color: blueviolet;
+
+}
+.fondo-verde{
+    background-color: green;
+
+}
+.fondo-rosa{
+    background-color: fuchsia;
+
+}
+.fondo-azul{
+    background-color: rgb(25, 219, 245);
+
+}
+.fondo-negro{
+    background-color: black;
+
+}
+.fondo-amarillo{
+    background-color: yellow;
+
+}
+
+.container-fluid{
+    height: 100vh;
+}
+
+.h-20{
+    height: 19.9em;
+}
